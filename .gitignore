@@ -1,0 +1,4 @@
+# Chroma vector DB
+intro-to-ds-lectures/
+*.sqlite
+*.db
